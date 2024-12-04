@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VendingMachineConsol/1.0.0": {
+        "runtime": {
+          "VendingMachineConsol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendingMachineConsol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

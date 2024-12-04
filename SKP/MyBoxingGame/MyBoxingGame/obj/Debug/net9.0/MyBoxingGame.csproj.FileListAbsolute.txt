@@ -1,0 +1,14 @@
+C:\skole\MyBoxingGame\MyBoxingGame\bin\Debug\net9.0\MyBoxingGame.exe
+C:\skole\MyBoxingGame\MyBoxingGame\bin\Debug\net9.0\MyBoxingGame.deps.json
+C:\skole\MyBoxingGame\MyBoxingGame\bin\Debug\net9.0\MyBoxingGame.runtimeconfig.json
+C:\skole\MyBoxingGame\MyBoxingGame\bin\Debug\net9.0\MyBoxingGame.dll
+C:\skole\MyBoxingGame\MyBoxingGame\bin\Debug\net9.0\MyBoxingGame.pdb
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.AssemblyInfoInputs.cache
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.AssemblyInfo.cs
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.csproj.CoreCompileInputs.cache
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.dll
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\refint\MyBoxingGame.dll
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.pdb
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\MyBoxingGame.genruntimeconfig.cache
+C:\skole\MyBoxingGame\MyBoxingGame\obj\Debug\net9.0\ref\MyBoxingGame.dll
