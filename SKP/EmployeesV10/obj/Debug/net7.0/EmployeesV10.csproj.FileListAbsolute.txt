@@ -1,0 +1,15 @@
+C:\skole\SkoleProjects\SKP\EmployeesV10\bin\Debug\net7.0\EmployeesV10.exe
+C:\skole\SkoleProjects\SKP\EmployeesV10\bin\Debug\net7.0\EmployeesV10.deps.json
+C:\skole\SkoleProjects\SKP\EmployeesV10\bin\Debug\net7.0\EmployeesV10.runtimeconfig.json
+C:\skole\SkoleProjects\SKP\EmployeesV10\bin\Debug\net7.0\EmployeesV10.dll
+C:\skole\SkoleProjects\SKP\EmployeesV10\bin\Debug\net7.0\EmployeesV10.pdb
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.GeneratedMSBuildEditorConfig.editorconfig
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.AssemblyInfoInputs.cache
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.AssemblyInfo.cs
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.csproj.CoreCompileInputs.cache
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.sourcelink.json
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.dll
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\refint\EmployeesV10.dll
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.pdb
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\EmployeesV10.genruntimeconfig.cache
+C:\skole\SkoleProjects\SKP\EmployeesV10\obj\Debug\net7.0\ref\EmployeesV10.dll
